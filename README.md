@@ -1,1 +1,1 @@
-# The_Weather_App
+# This app uses the Open Weather Map API to extract, depending on the region, the description of the weather, date, and temperature at either the current time or within a 5 day forecast and display it to the user.
